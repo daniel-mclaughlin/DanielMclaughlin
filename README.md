@@ -1,2 +1,3 @@
-- I have just finished my A-Levels
-- I am interested in learning data science
+I have just finsihed my A-levels and am interested in a career in data science.
+I have experience with MERN stack JavaScript.
+I am currently learning how to get started with data analytics using python.

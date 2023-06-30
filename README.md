@@ -1,1 +1,2 @@
-Welcome to my profile!
+- I have just finished my A-Levels
+- I am interested in learning data science
